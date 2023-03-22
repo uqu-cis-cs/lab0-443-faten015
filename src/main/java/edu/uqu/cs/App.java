@@ -1,4 +1,5 @@
 package edu.uqu.cs;
+import java.util.Scanner;
 /*
  * Lab 0 
  * CS 1312
